@@ -10,11 +10,11 @@ This is the start of learning DevOps
 DevOps -- Plan, Develop, Build, Test, Release, Deploy, Operate, Monitor
 
 
-Step1:
+# Step1:
 
 Create Repo naming DevOps_Foundation
 
-Step2:
+# Step2:
 
 Go to Repo by using local PC 
 
@@ -27,12 +27,12 @@ git branch add_name
 git checkout add_name 
 # this goes to the branch we created  "checkout"
 
-Step3:
+# Step3:
 Open the Readme.md file using the command code .(this is not a dot)
 
 # code . can edit the file in text editor via terminal 
 
-Step4:
+# Step4:
 
 git add Readme.md
 
@@ -53,3 +53,7 @@ git push
 # to delete the branch locally 
 
 git branch -d add-readme
+
+# to delete the branch remotely
+
+git push origin --delete  add-readme
