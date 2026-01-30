@@ -63,3 +63,9 @@ git push origin --delete  add-readme
 CI:Automating the integration of code changes
 
 CD:Sreamlining Deployment processes.
+
+# Tools for CI/CD:
+ EXamples:
+ .Jenkins
+ .GitHub Actions
+ .GitLab CI/CD
