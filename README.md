@@ -104,5 +104,7 @@ Docker is the main application for creating vm machines
 .docker stop: Stops a running container.
 .docker ps:list all running containers.
 
-Benefits of Containers:
+# Benefits of Containers:
+
 Protability,scalability,Consistent environments,Resource efficienct,improved deployment speed.
+
