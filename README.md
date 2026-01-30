@@ -86,3 +86,11 @@ CD:Sreamlining Deployment processes.
  # What are Containers? 
 
  .LightWeight virtualized environments for running applications
+
+ # Dockers 
+
+ Key Concepts:
+ .Images
+ .Containers
+ .DockerFiles
+ 
