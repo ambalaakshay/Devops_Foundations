@@ -94,4 +94,15 @@ Docker is the main application for creating vm machines
  Key Concepts:
  .Images
  .Containers
- .DockerFiles
+ .DockerFiles (# Text file for installing images via instructions)
+
+
+# Basic Docker Commands:
+
+.docker build: Creates an image from Dockerfile.
+.docker run: Starts a container from an image.
+.docker stop: Stops a running container.
+.docker ps:list all running containers.
+
+Benefits of Containers:
+Protability,scalability,Consistent environments,Resource efficienct,improved deployment speed.
