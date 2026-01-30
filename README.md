@@ -89,8 +89,9 @@ CD:Sreamlining Deployment processes.
 
  # Dockers 
 
+Docker is the main application for creating vm machines 
+
  Key Concepts:
  .Images
  .Containers
  .DockerFiles
- 
