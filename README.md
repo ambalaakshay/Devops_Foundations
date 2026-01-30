@@ -69,3 +69,16 @@ CD:Sreamlining Deployment processes.
  .Jenkins
  .GitHub Actions
  .GitLab CI/CD
+
+ # What is YAML ?
+ Basic YAML Syntax
+ .Key-value pairs : key:value
+ .Lists: item1,item2
+ .Nested items: Indented with spaces
+
+ # GitHUb ACTIONS AND YAML
+
+ .GitHub Acions workflows are defined using YAML
+ .Workflows are stored in .github/workflows/
+ .Workflows specify events and jobs.
+ 
