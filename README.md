@@ -57,3 +57,9 @@ git branch -d add-readme
 # to delete the branch remotely
 
 git push origin --delete  add-readme
+
+================================================================
+
+CI:Automating the integration of code changes
+
+CD:Sreamlining Deployment processes.
