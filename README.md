@@ -49,3 +49,7 @@ git checkout main
 git merge add-Readme
 
 git push 
+
+# to delete the branch locally 
+
+git branch -d add-readme
