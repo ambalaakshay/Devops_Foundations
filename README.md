@@ -81,4 +81,8 @@ CD:Sreamlining Deployment processes.
  .GitHub Acions workflows are defined using YAML
  .Workflows are stored in .github/workflows/
  .Workflows specify events and jobs.
- 
+
+
+ # What are Containers? 
+
+ .LightWeight virtualized environments for running applications
